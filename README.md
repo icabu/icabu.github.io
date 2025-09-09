@@ -1,1 +1,1 @@
-# [Страница](https://icabu.github.io)
+# [Icabu](https://icabu.github.io)
