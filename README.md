@@ -1,1 +1,1 @@
-# [Icabu](https://icabu.github.io)
+Официальный сайт проекта Икабу
